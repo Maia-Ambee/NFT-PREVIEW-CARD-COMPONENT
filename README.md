@@ -8,7 +8,9 @@ My process
 
 What I learned
 How CSS Positioning and Flexbox Work
+
 How TO - Style HR (Horizontal Ruler/Line)
+
 How to Draw a Circle Using the CSS Border Radius Property
 
 
