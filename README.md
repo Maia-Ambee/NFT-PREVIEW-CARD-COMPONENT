@@ -6,6 +6,12 @@ Live Site URL: https://maia-ambee.github.io/NFT-PREVIEW-CARD-COMPONENT/
 
 My process
 
+What I learned
+How CSS Positioning and Flexbox Work
+How TO - Style HR (Horizontal Ruler/Line)
+How to Draw a Circle Using the CSS Border Radius Property
+
+
 Built with
 
 Semantic HTML5 markup CSS custom properties Flexbox
